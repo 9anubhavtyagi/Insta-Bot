@@ -1,6 +1,22 @@
-# Insta-Bot
-This is an Instagram bot, which scrap data from Instagram automatically.
-It is made using Selenium library of Python.
 
-Programming Language: Python
-Modules Involved: Selenium, Numpy, Pandas, Matplotlib
+# Instagram-Bot
+
+
+- *An  **Automated System** to **Scrap Data**  from **Instagram***
+
+- Following functionalities are added :-
+	1. **Log-In Instagram**
+	2. **Search Handle, Users, Text, Hashtags e.t.c.**
+	3. **Like/Unlike Posts**
+	4. **Follow/Unfollow Handles**
+	5. **View Stories**
+
+- ***Perform runtime analysis** on collected data.*
+
+
+## Technologies Used:- 
+- ***Python***
+- ***Selenium***
+- ***Numpy***
+- ***Matplotlib***
+- ***Pandas***
